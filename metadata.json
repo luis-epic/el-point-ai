@@ -1,0 +1,7 @@
+{
+  "name": "El Point",
+  "description": "An AI-powered georeferenced directory app using Gemini Maps Grounding and simulating a Supabase backend for favorites.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
